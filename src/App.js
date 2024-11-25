@@ -47,7 +47,7 @@ const App = () => {
   };
 
   return (
-    <div className="container-fluid">
+    <div className="container-fluid fw-bold">
       {/* Header untuk Navbar dan Pencarian */}
       <Header
         title="Movie App"
